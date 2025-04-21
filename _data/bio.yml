@@ -12,7 +12,7 @@
 
 - name: Instagram
   items:
-    - url: https://www.example.com
+    - url: https://www.instagram.com/lucas_dmitruk
       image: https://picsum.photos/700/400.webp # You can use paths to images in the assets folder, e.g., assets/images/insta.jpg.
 
     - url: https://www.example.org
